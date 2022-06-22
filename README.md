@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorgmaciel
-- 👀 I’m interested in Data Science and Software Development
-- 🌱 I’m a Senior studying Informatics at the University of Washington
+- 👀 I’m interested in Software Development
+- 🌱 I’m a UW Graduate
 - 📫 How to reach me: victorgmaciel@protonmail.com
 
 
